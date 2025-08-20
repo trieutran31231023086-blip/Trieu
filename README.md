@@ -1,0 +1,2 @@
+# Trieu
+bai tap LTCB
